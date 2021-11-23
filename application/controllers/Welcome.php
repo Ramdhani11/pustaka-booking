@@ -21,6 +21,6 @@ class Welcome extends CI_Controller
 	 */
 	public function index()
 	{
-		echo "Perkenalkan<br>Nama : Anwar Ramdhani<br>Kelas : 12.3B.17";
+		echo "Perkenalkan <br>Nama : Anwar Ramdhani<br>Kelas : 12.3B.17";
 	}
 }
